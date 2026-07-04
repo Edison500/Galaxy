@@ -86,7 +86,7 @@ scene.add(bg);
 
 // Galaxy
 const galaxy = new THREE.Group(); scene.add(galaxy);
-const phrases = ["Pinchecha ✨", " Hermosa 💛", "Mi Bebe", "Mi Cielito 🌌", "Hermosota ✨", "Mi Infinita ♾️", "Mi Todo", "Me Encantas 🥰", " Lucia 💫", " Guliana ♾️", "Te Amo💛", "Mi Canción Favorita 🎶", "Unica 😊", "Mi Reina 👑", "Mi Amor", "Mi Mundo", "Mi Luz 🌠", "Mi Niña", "Mi Tesoro💛", "Mi Paz", "Mi Eterna", "Mi Sueño", "Mi Pensamiento Favorito", "Mi Bombom", "Mi Diosa", "Te Amo Infinitamente ♾️"];
+const phrases = ["Pinchecha ✨", " Hermosa 💛", "Mi Bebe", "Mi Cielito 🌌", "Hermosota ✨", "Mi Infinita ♾️", "Mi Todo", "Me Encantas 🥰", " Lucia 💫", " Giuliana ♾️", "Te Amo💛", "Mi Canción Favorita 🎶", "Unica 😊", "Mi Reina 👑", "Mi Amor", "Mi Mundo", "Mi Luz 🌠", "Mi Niña", "Mi Tesoro💛", "Mi Paz", "Mi Eterna", "Mi Sueño", "Mi Pensamiento Favorito", "Mi Bombom", "Mi Diosa", "Te Amo Infinitamente ♾️"];
 const phraseCount = Math.max(phrases.length * 6, 180);
 const arms = 5, radius = 82, maxH = 22;
 
